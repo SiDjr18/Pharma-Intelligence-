@@ -1,0 +1,5 @@
+{
+  "name": "Pharma Intelligence & Strategy Agent",
+  "description": "An AI agent that transforms multi-sheet IMS (IQVIA) datasets into high-impact insights, dashboards, and strategy reports for pharmaceutical decision-making. Upload an Excel file, provide a query, and receive a comprehensive strategic analysis.",
+  "requestFramePermissions": []
+}
